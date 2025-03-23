@@ -1,0 +1,75 @@
+2025-03-01 22:51:02,619 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 22:51:02,619 - [33mPress CTRL+C to quit[0m
+2025-03-01 22:51:02,620 -  * Restarting with stat
+2025-03-01 22:51:02,789 -  * Debugger is active!
+2025-03-01 22:51:02,810 -  * Debugger PIN: 103-558-338
+2025-03-01 22:51:38,493 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+2025-03-01 22:51:38,503 - 127.0.0.1 - - [01/Mar/2025 22:51:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-01 22:51:38,555 - 127.0.0.1 - - [01/Mar/2025 22:51:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-01 22:51:38,556 - 127.0.0.1 - - [01/Mar/2025 22:51:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-01 22:51:38,575 - 127.0.0.1 - - [01/Mar/2025 22:51:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=2AAjzCqUY7Hkzbjth0Zz HTTP/1.1" 200 -
+2025-03-01 22:51:38,764 - 127.0.0.1 - - [01/Mar/2025 22:51:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-01 22:53:43,305 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 22:53:43,305 - [33mPress CTRL+C to quit[0m
+2025-03-01 22:53:43,306 -  * Restarting with stat
+2025-03-01 22:53:43,481 -  * Debugger is active!
+2025-03-01 22:53:43,484 -  * Debugger PIN: 103-558-338
+2025-03-01 22:53:49,360 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+2025-03-01 22:53:49,364 - 127.0.0.1 - - [01/Mar/2025 22:53:49] "GET / HTTP/1.1" 200 -
+2025-03-01 22:53:49,421 - 127.0.0.1 - - [01/Mar/2025 22:53:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-01 22:53:49,421 - 127.0.0.1 - - [01/Mar/2025 22:53:49] "GET /logs HTTP/1.1" 200 -
+2025-03-01 22:55:37,824 -  * Detected change in '/home/abdellatif/Bureau/Système de Détection d’Intrusion /app.py', reloading
+2025-03-01 22:55:37,879 -  * Restarting with stat
+2025-03-01 22:55:56,068 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 22:55:56,068 - [33mPress CTRL+C to quit[0m
+2025-03-01 22:55:56,069 -  * Restarting with stat
+2025-03-01 22:55:56,239 -  * Debugger is active!
+2025-03-01 22:55:56,243 -  * Debugger PIN: 103-558-338
+2025-03-01 22:56:00,463 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:56:00,465 - 127.0.0.1 - - [01/Mar/2025 22:56:00] "GET / HTTP/1.1" 200 -
+2025-03-01 22:56:00,510 - 127.0.0.1 - - [01/Mar/2025 22:56:00] "GET /logs HTTP/1.1" 200 -
+2025-03-01 22:57:31,529 -  * Detected change in '/home/abdellatif/Bureau/Système de Détection d’Intrusion /app.py', reloading
+2025-03-01 22:57:31,578 -  * Restarting with stat
+2025-03-01 22:58:51,055 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 22:58:51,056 - [33mPress CTRL+C to quit[0m
+2025-03-01 22:58:51,056 -  * Restarting with stat
+2025-03-01 22:58:51,230 -  * Debugger is active!
+2025-03-01 22:58:51,233 -  * Debugger PIN: 103-558-338
+2025-03-01 22:58:54,736 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:58:54,739 - 127.0.0.1 - - [01/Mar/2025 22:58:54] "GET / HTTP/1.1" 200 -
+2025-03-01 22:58:54,789 - 127.0.0.1 - - [01/Mar/2025 22:58:54] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:58:56,727 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:58:56,728 - 127.0.0.1 - - [01/Mar/2025 22:58:56] "GET / HTTP/1.1" 200 -
+2025-03-01 22:58:56,794 - 127.0.0.1 - - [01/Mar/2025 22:58:56] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:59:34,364 -  * Detected change in '/home/abdellatif/Bureau/Système de Détection d’Intrusion /app.py', reloading
+2025-03-01 22:59:34,433 -  * Restarting with stat
+2025-03-01 22:59:34,623 -  * Debugger is active!
+2025-03-01 22:59:34,628 -  * Debugger PIN: 103-558-338
+2025-03-01 22:59:43,572 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 22:59:43,572 - [33mPress CTRL+C to quit[0m
+2025-03-01 22:59:43,573 -  * Restarting with stat
+2025-03-01 22:59:43,751 -  * Debugger is active!
+2025-03-01 22:59:43,754 -  * Debugger PIN: 103-558-338
+2025-03-01 22:59:49,112 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:59:49,116 - 127.0.0.1 - - [01/Mar/2025 22:59:49] "GET / HTTP/1.1" 200 -
+2025-03-01 22:59:49,158 - 127.0.0.1 - - [01/Mar/2025 22:59:49] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:59:50,087 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:59:50,088 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "GET / HTTP/1.1" 200 -
+2025-03-01 22:59:50,153 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:59:50,407 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:59:50,408 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "GET / HTTP/1.1" 200 -
+2025-03-01 22:59:50,473 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:59:50,567 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:59:50,567 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "GET / HTTP/1.1" 200 -
+2025-03-01 22:59:50,611 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:59:50,711 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:59:50,712 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "GET / HTTP/1.1" 200 -
+2025-03-01 22:59:50,762 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-03-01 22:59:50,975 - IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 | Data: Keine POST-Daten
+2025-03-01 22:59:50,976 - 127.0.0.1 - - [01/Mar/2025 22:59:50] "GET / HTTP/1.1" 200 -
+2025-03-01 22:59:51,039 - 127.0.0.1 - - [01/Mar/2025 22:59:51] "[33mGET /logs HTTP/1.1[0m" 404 -

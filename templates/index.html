@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détection d'Intrusion</title>
+    <script>
+        async function fetchLogs() {
+            const response = await fetch("/logs");
+            const data = await response.json();
+            let tableContent = "<tr><th>IP</th><th>User-Agent</th><th>Data</th></tr>";
+            data.forEach(log => {
+                tableContent += `<tr><td>${log.IP}</td><td>${log['User-Agent']}</td><td>${log.Data}</td></tr>`;
+            });
+            document.getElementById("logs").innerHTML = tableContent;
+        }
+        window.onload = fetchLogs;
+    </script>
+</head>
+<body>
+    <h1>Attaques détectées</h1>
+    <table border="1" id="logs"></table>
+</body>
+</html>
