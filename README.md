@@ -85,5 +85,4 @@ Ensure the logs.txt file has proper write permissions.
 
 Disclaimer
 
-This script is intended for educational and security research purposes only. Do not use it in unauthorized environments.
 
